@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Pyatnashki/Pyatnashki.vcxproj" Id="242ae6db-773f-4981-aa26-cb41a0ceb30a" />
+</Solution>
